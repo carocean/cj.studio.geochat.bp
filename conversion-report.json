@@ -1,0 +1,350 @@
+{
+  "source_filename": "Geochat-BP-v4.3.pdf",
+  "source_sha256": "ae052274c3d8edc3c5ad7608384c71c9ab3b7f05c9a41f9cff461b67abaef9f3",
+  "source_pages": 46,
+  "text_lines_retained": 1216,
+  "watermark_lines_removed": 184,
+  "validation": "PASS: every non-watermark PDF text line retained; 46 page-image references verified. Image-only text is preserved visually, not transcribed.",
+  "pages": [
+    {
+      "page": 1,
+      "title": "Geochat",
+      "text_lines": 10,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-01.png"
+    },
+    {
+      "page": 2,
+      "title": "Problems to be solved",
+      "text_lines": 23,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-02.png"
+    },
+    {
+      "page": 3,
+      "title": "Solution",
+      "text_lines": 110,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-03.png"
+    },
+    {
+      "page": 4,
+      "title": "INNOVATION POINTS",
+      "text_lines": 58,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-04.png"
+    },
+    {
+      "page": 5,
+      "title": "Product Positioning",
+      "text_lines": 22,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-05.png"
+    },
+    {
+      "page": 6,
+      "title": "Product Prototype Experience Entrance",
+      "text_lines": 15,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-06.png"
+    },
+    {
+      "page": 7,
+      "title": "Product · Multiple style frameworks",
+      "text_lines": 18,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-07.png"
+    },
+    {
+      "page": 8,
+      "title": "Product · Chat Style Framework",
+      "text_lines": 5,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-08.png"
+    },
+    {
+      "page": 9,
+      "title": "Product · Efficiency Style Framework",
+      "text_lines": 7,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-09.png"
+    },
+    {
+      "page": 10,
+      "title": "Product · Geomotion",
+      "text_lines": 40,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-10.png"
+    },
+    {
+      "page": 11,
+      "title": "Product · AReality",
+      "text_lines": 37,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-11.png"
+    },
+    {
+      "page": 12,
+      "title": "Product · Create a AReality",
+      "text_lines": 4,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-12.png"
+    },
+    {
+      "page": 13,
+      "title": "Product · Broadcast",
+      "text_lines": 43,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-13.png"
+    },
+    {
+      "page": 14,
+      "title": "Product · Create a broadcast",
+      "text_lines": 9,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-14.png"
+    },
+    {
+      "page": 15,
+      "title": "Product · Group chat",
+      "text_lines": 30,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-15.png"
+    },
+    {
+      "page": 16,
+      "title": "Product · @someone",
+      "text_lines": 21,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-16.png"
+    },
+    {
+      "page": 17,
+      "title": "Product · Momemts",
+      "text_lines": 16,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-17.png"
+    },
+    {
+      "page": 18,
+      "title": "Product · Downtown",
+      "text_lines": 40,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-18.png"
+    },
+    {
+      "page": 19,
+      "title": "Product · Topic",
+      "text_lines": 24,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-19.png"
+    },
+    {
+      "page": 20,
+      "title": "Product · AI Watch",
+      "text_lines": 15,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-20.png"
+    },
+    {
+      "page": 21,
+      "title": "Product · AI Knows",
+      "text_lines": 8,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-21.png"
+    },
+    {
+      "page": 22,
+      "title": "Product · Official News",
+      "text_lines": 33,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-22.png"
+    },
+    {
+      "page": 23,
+      "title": "Product · Twitter X Entrance",
+      "text_lines": 14,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-23.png"
+    },
+    {
+      "page": 24,
+      "title": "Finance · Fiat currency",
+      "text_lines": 17,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-24.png"
+    },
+    {
+      "page": 25,
+      "title": "Finance · Return coupon after payment",
+      "text_lines": 13,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-25.png"
+    },
+    {
+      "page": 26,
+      "title": "Finance · Incentive Mechanism",
+      "text_lines": 38,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-26.png"
+    },
+    {
+      "page": 27,
+      "title": "Finance · Cryptocurrencies",
+      "text_lines": 22,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-27.png"
+    },
+    {
+      "page": 28,
+      "title": "Finance · Geochat Blockchain",
+      "text_lines": 42,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-28.png"
+    },
+    {
+      "page": 29,
+      "title": "Geochat Ecology",
+      "text_lines": 36,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-29.png"
+    },
+    {
+      "page": 30,
+      "title": "Geochat history and future path planning",
+      "text_lines": 35,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-30.png"
+    },
+    {
+      "page": 31,
+      "title": "Business Model",
+      "text_lines": 40,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-31.png"
+    },
+    {
+      "page": 32,
+      "title": "Operating Model",
+      "text_lines": 75,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-32.png"
+    },
+    {
+      "page": 33,
+      "title": "User Engagement/Retention",
+      "text_lines": 46,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-33.png"
+    },
+    {
+      "page": 34,
+      "title": "Technical Protection",
+      "text_lines": 6,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-34.png"
+    },
+    {
+      "page": 35,
+      "title": "Founder Introduction",
+      "text_lines": 19,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-35.png"
+    },
+    {
+      "page": 36,
+      "title": "Financing Needs",
+      "text_lines": 8,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-36.png"
+    },
+    {
+      "page": 37,
+      "title": "Original page 37",
+      "text_lines": 5,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-37.png"
+    },
+    {
+      "page": 38,
+      "title": "Original page 38",
+      "text_lines": 5,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-38.png"
+    },
+    {
+      "page": 39,
+      "title": "Complete business closed loop",
+      "text_lines": 53,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-39.png"
+    },
+    {
+      "page": 40,
+      "title": "Product overview",
+      "text_lines": 8,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-40.png"
+    },
+    {
+      "page": 41,
+      "title": "Product release channels",
+      "text_lines": 10,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-41.png"
+    },
+    {
+      "page": 42,
+      "title": "Fission Tool (1/3)",
+      "text_lines": 32,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-42.png"
+    },
+    {
+      "page": 43,
+      "title": "Fission Tool (2/3)）",
+      "text_lines": 21,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-43.png"
+    },
+    {
+      "page": 44,
+      "title": "Fission Tool (3/3)）",
+      "text_lines": 20,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-44.png"
+    },
+    {
+      "page": 45,
+      "title": "Customer Feedbacks",
+      "text_lines": 61,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-45.png"
+    },
+    {
+      "page": 46,
+      "title": "Original page 46",
+      "text_lines": 2,
+      "watermark_lines_removed": 4,
+      "image": "assets/page-46.png"
+    }
+  ],
+  "original_pdf_link_targets_preserved": 3,
+  "layout_revision": {
+    "visual_edition": "BP.md",
+    "text_companion": "TRANSCRIPT.md",
+    "chapters": 7,
+    "slides_displayed_inline": 46,
+    "text_preservation": "PASS: every source page body identical to previous conversion after removal of image-disclosure markup; no source text deleted or rewritten.",
+    "links": "PASS: all local Markdown file targets and explicit fragment anchors resolve.",
+    "source_images": "Unchanged original PNGs; all 46 visually reviewed in contact sheets.",
+    "live_github_check": "Original BP.md: image disclosure expanded successfully in browser; first five images loaded at natural width 1440. Main reading edition removes image disclosures. New edition requires post-publish verification."
+  },
+  "owner_revision": {
+    "page": 35,
+    "change": "Removed one employment-history item from founder introduction at owner request; image and transcript synchronized.",
+    "method": "Source PDF text redaction followed by original 1.5x render; generated-image candidate rejected because it changed canvas dimensions.",
+    "validation": "PASS: original and new dimensions 1440x810. Exactly 4625 pixels changed within x445..1130, y614..631. All pixels outside removed line identical. Other founder biography items retained.",
+    "supersedes": "Initial exact-source preservation claims for page 35 only."
+  }
+}
