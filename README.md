@@ -5,6 +5,14 @@
 
 > Open up the world around you
 
+## What is GeoChat?
+
+GeoChat connects people, places and businesses through real-time geographic interaction. Its vision goes beyond a chat app: people, moving objects and places become interactive nodes that can sense nearby activity and share information with their surroundings.
+
+The next-generation blueprint combines this network with GeoOS, an extensible environment for third-party mini programs, plugins and location-aware AI experiences, alongside proposed payment and blockchain-based financing services for local businesses.
+
+**Project status:** Version 1 was developed and released in 2021; the next-generation blueprint was completed in 2023, with a high-fidelity app prototype. These later capabilities are designs, not claims of implementation.
+
 ## [Read the visual business plan →](BP.md)
 
 The complete 46-page English deck, with slides displayed directly and organized into seven chapters. App screens, diagrams and original slide layouts stay intact. Click a slide for the full-size image.
